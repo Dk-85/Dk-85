@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Backend**
 - 👯 I’m love to work on **Networks**
 - 💬 Ask me about **Windows OS**
-- 📫 How to reach me: **[FarooQ@2113](https://www.linkedin.com/in/farooq-ahamed-543aa91b4/)**
 - ⚡ Fun fact: **I'm an Technophile**
